@@ -2,7 +2,7 @@
  * Splide.js
  * Version  : 4.1.4
  * License  : MIT
- * Copyright: 2022 Naotoshi Fujita
+ * Copyright: 2024 Naotoshi Fujita
  */
 'use strict';
 
